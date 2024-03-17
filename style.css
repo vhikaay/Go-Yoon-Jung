@@ -1,0 +1,18 @@
+body {
+    background-color: lightpink;
+    color: white;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+img {
+    margin-left: 25%;
+    border-radius: 6%;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
